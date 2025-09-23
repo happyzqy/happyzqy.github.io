@@ -3,11 +3,9 @@ layout: page
 ---
 
 > Nice to meet you !!!😊 Hope you are happy every day!!!💥
-
-<br> 
-
-**I am actively seeking collaboration opportunities in the field of multimodal video understanding & inference. If you have relevant research interests or research opportunities, please feel free to contact me.**
 <!-->
+<br> 
+**I am actively seeking collaboration opportunities in the field of multimodal video understanding & inference. If you have relevant research interests or research opportunities, please feel free to contact me.**
 [You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng_250920.pdf)**
 -->
 ### Biography
