@@ -6,7 +6,7 @@ layout: page
 
 <br> 
 
-**I am actively seeking collaboration opportunities in the field of multimodal video understanding & inference. If you have relevant research interests or research opportunities, please feel free to contact me. **
+**I am actively seeking collaboration opportunities in the field of multimodal video understanding & inference. If you have relevant research interests or research opportunities, please feel free to contact me.**
 <!-->
 [You can download my <span style="color:red">CV</span> here.](https://github.com/LanXingXuan/LanXingXuan.github.io/blob/main/CV_Xiangyu_Zeng_250920.pdf)**
 -->
@@ -25,8 +25,6 @@ My research interests lies in the computer vision and multimodal, including Vide
 - 2021.09 - 2025.06 : Shandong University (B.Eng of Artificial Intelligence)
 - 2025.09 - now : Nanjing University (MS of Conputer Science)
 
-<br>
-
 ### News
 
 - 2025.09: One papers were accepted by NeurIPS 2025 (including a spotlight).
@@ -38,7 +36,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 ### Selected Publications
 
 - 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Code (coming soon!)]]() *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
-Xiangyu Zeng\*, Kefan Qiu\*,** Qingyu Zhang\***, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
+Xiangyu Zeng\*, Kefan Qiu\*,**Qingyu Zhang\***, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
 
 <!--
 <br>
@@ -65,6 +63,6 @@ Xiangyu Zeng\*, Kefan Qiu\*,** Qingyu Zhang\***, Xinhao Li, Jing Wang, Jiaxin Li
 
 **Competitions**
 - 2025.04 : Huawei Software Elite Challenge - Second Prize(Jiangshan Division)
-- 2024.05 : National College Student Software Innovation Competition - Second Prize(National Finals)
+- 2024.05 : **National College Student Software Innovation Competition - Second Prize(National Finals)**
 - 2024.04 : Huawei Software Elite Challenge - Second Prize(Jiangshan Division)
 - 2023.06 : **CCF Certified Software Professional (CSP) - Score 320 (Top 0.86%)**
