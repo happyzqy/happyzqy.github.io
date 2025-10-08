@@ -21,7 +21,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Academic Background
 
-- 2021.09 - 2025.06 : Shandong University, B.Eng of Artificial Intelligence([Computer Science Elite Class](https://www.cs.sdu.edu.cn/jxjg/jsjjyb1.htm))
+- 2021.09 - 2025.06 : Shandong University, B.Eng of Artificial Intelligence ([*<font color="#006ab1">Computer Science Elite Class</font>*](https://www.cs.sdu.edu.cn/jxjg/jsjjyb1.htm))
 - 2025.09 - now : Nanjing University, MS of Conputer Science
 
 ### News
@@ -34,7 +34,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### Selected Publications
 
-- 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Code (coming soon!)]]() *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
+- 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/pdf/2509.24871) [[Code]](https://github.com/MCG-NJU/StreamForest) *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
 Xiangyu Zeng\*, Kefan Qiu\*,**Qingyu Zhang\***, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
 
 <!--
