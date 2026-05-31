@@ -24,6 +24,10 @@ My research interests lies in the computer vision and multimodal, including Vide
 - 2021.09 - 2025.06 : Shandong University, B.Eng of Artificial Intelligence ([*<font color="#006ab1">Computer Science Elite Class</font>*](https://www.cs.sdu.edu.cn/jxjg/jsjjyb1.htm))
 - 2025.09 - now : Nanjing University, MS of Conputer Science
 
+### Experience
+
+- 2026.05 - Present : Research Intern, ByteDance
+
 ### News
 
 - 2025.09: One papers were accepted by NeurIPS 2025 (spotlight).
