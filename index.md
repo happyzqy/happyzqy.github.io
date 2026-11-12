@@ -43,6 +43,13 @@ My research interests lies in the computer vision and multimodal, including Vide
 - 2025.05 : **StreamForest: Efficient Online Video Understanding with Persistent Event Memory [[Paper]](https://arxiv.org/pdf/2509.24871) [[Code]](https://github.com/MCG-NJU/StreamForest) *in proceedings of the NeurIPS 2025 <span style="color:red">Spotlight</span> (CCF-A)*** <br>
 Xiangyu Zeng\*, Kefan Qiu\*,**Qingyu Zhang\***, Xinhao Li, Jing Wang, Jiaxin Li, Ziang Yan, Kun Tian, Meng Tian, Xinhai Zhao, Yi Wang, Limin Wang†
 
+---
+
+### Technical Reports
+
+- 2026.07 : **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[Paper]](https://arxiv.org/pdf/2607.14935) [[Code]](https://github.com/MCG-NJU/VideoChat3)** <br>
+Xinhao Li\*, Yuhan Zhu\*, Xiangyu Zeng\*, Yuhao Dong\*, Haoning Wu\*, Zhiqiu Zhang\*, Yuandong Yang, Changlian Ma, **Qingyu Zhang**, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang†
+
 <!--
 <br>
 
