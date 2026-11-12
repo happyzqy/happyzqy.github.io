@@ -30,6 +30,7 @@ My research interests lies in the computer vision and multimodal, including Vide
 
 ### News
 
+- 2026.09: One paper was accepted by NeurIPS 2026.
 - 2026.05: One paper was accepted by ICML 2026.
 - 2025.09: One paper was accepted by NeurIPS 2025 (spotlight).
 
