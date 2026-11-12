@@ -11,18 +11,18 @@ layout: page
 
 ### Biography
 
-I am a MS student in Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
+I am a master's student at Nanjing University, supervised by Prof. [*<font color="#006ab1">Limin Wang</font>*](https://wanglimin.github.io/). 
 <br>
-I received my B.Eng degree from Shandong University (Major in Artificial Intelligence, School of Computer Science, rank: 3/61), Also i am in the Computer Science Elite Class. 
+I received my B.Eng. degree in Artificial Intelligence from Shandong University (School of Computer Science; rank: 3/61), where I was a member of the Computer Science Elite Class. 
 <br>
-My research interests lies in the computer vision and multimodal, including Video Understanding and Vision-Language Representation Learning.
+My research focuses on multimodal large language models, particularly long-form and streaming video understanding, GUI grounding, and UI understanding.
 
 <br>
 
 ### Academic Background
 
-- 2021.09 - 2025.06 : Shandong University, B.Eng of Artificial Intelligence ([*<font color="#006ab1">Computer Science Elite Class</font>*](https://www.cs.sdu.edu.cn/jxjg/jsjjyb1.htm))
-- 2025.09 - now : Nanjing University, MS of Conputer Science
+- 2025.09 - now : Nanjing University, Master's in Computer Science
+- 2021.09 - 2025.06 : Shandong University, B.Eng. in Artificial Intelligence ([*<font color="#006ab1">Computer Science Elite Class</font>*](https://www.cs.sdu.edu.cn/jxjg/jsjjyb1.htm))
 
 ### Experience
 
