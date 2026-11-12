@@ -65,12 +65,6 @@ Xinhao Li\*, Yuhan Zhu\*, Xiangyu Zeng\*, Yuhao Dong\*, Haoning Wu\*, Zhiqiu Zha
 -->
 ---
 
-### Some Interesting Works
-To be updated
-
-
----
-
 ### Awards 
 
  **Honors**
